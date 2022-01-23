@@ -1,0 +1,5 @@
+﻿  SimpleCalc.cpp
+e:\projects\cpp-play\simplecalc\simplecalc\simplecalc.cpp(143): warning C4018: '<': signed/unsigned mismatch
+e:\projects\cpp-play\simplecalc\simplecalc\simplecalc.cpp(145): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\projects\cpp-play\simplecalc\simplecalc\simplecalc.cpp(154): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SimpleCalc.vcxproj -> E:\Projects\CPP-play\SimpleCalc\Debug\SimpleCalc.exe
