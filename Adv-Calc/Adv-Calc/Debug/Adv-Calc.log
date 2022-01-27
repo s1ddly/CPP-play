@@ -1,4 +1,0 @@
-﻿  Adv-Calc.cpp
-e:\projects\cpp-play\adv-calc\adv-calc\adv-calc.cpp(35): warning C4018: '<': signed/unsigned mismatch
-e:\projects\cpp-play\adv-calc\adv-calc\adv-calc.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Adv-Calc.vcxproj -> E:\Projects\CPP-play\Adv-Calc\Debug\Adv-Calc.exe
