@@ -1,0 +1,11 @@
+﻿  Sqrt-Calc.cpp
+e:\projects\cpp-play\sqrt-calc\sqrt-calc\sqrt-calc.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\projects\cpp-play\sqrt-calc\sqrt-calc\sqrt-calc.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\projects\cpp-play\sqrt-calc\sqrt-calc\sqrt-calc.cpp(45): warning C4018: '<': signed/unsigned mismatch
+e:\projects\cpp-play\sqrt-calc\sqrt-calc\sqrt-calc.cpp(49): warning C4018: '<': signed/unsigned mismatch
+e:\projects\cpp-play\sqrt-calc\sqrt-calc\sqrt-calc.cpp(49): warning C4018: '>': signed/unsigned mismatch
+e:\projects\cpp-play\sqrt-calc\sqrt-calc\sqrt-calc.cpp(59): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\projects\cpp-play\sqrt-calc\sqrt-calc\sqrt-calc.cpp(69): warning C4553: '==': result of expression not used; did you intend '='?
+e:\projects\cpp-play\sqrt-calc\sqrt-calc\sqrt-calc.cpp(84): warning C4018: '<': signed/unsigned mismatch
+e:\projects\cpp-play\sqrt-calc\sqrt-calc\sqrt-calc.cpp(87): warning C4018: '>': signed/unsigned mismatch
+  Sqrt-Calc.vcxproj -> E:\Projects\CPP-play\Sqrt-Calc\Debug\Sqrt-Calc.exe
